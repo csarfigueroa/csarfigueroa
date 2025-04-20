@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m César Figueroa
 
-I’m a backend developer with a strong focus on clean architecture, cloud-native solutions, and making things work reliably at scale. I currently work at Allata, a U.S.-based consulting firm, where I wear multiple hats—as a Solution Architect, Tech Lead, and Senior Developer—depending on the project.
+I’m a backend developer with a strong focus on clean architecture, cloud-native solutions, and making things work reliably at scale. I currently work in a U.S.-based consulting firm, where I wear multiple hats—as a Solution Architect, Tech Lead, and Senior Developer—depending on the project.
 
 What I enjoy the most is diving into complex problems, breaking them down, and building something solid with a team. Whether it’s improving performance, designing infrastructure, or mentoring someone who's just getting started, that’s where I feel most at home.
 
