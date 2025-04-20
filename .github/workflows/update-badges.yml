@@ -1,0 +1,23 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Ejecuta todos los días a medianoche UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Fetch badges from Credly
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 🏗️ Checkout repo
+        uses: actions/checkout@v3
+
+      - name: 🛡️ Run badge-readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: cesar-figueroa.c4ddfb16
+          BADGE_SIZE: 110
+          NUMBER_LAST_BADGES: 0  # 0 to show all
