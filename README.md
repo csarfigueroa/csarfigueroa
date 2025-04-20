@@ -11,9 +11,10 @@
 
 ### 🏅 Certifications
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/1e1e0c3c-7f3b-4e1c-9c3b-7a2e4e8f5f3b/aws-certified-solutions-architect-associate.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/2f2f1c4d-8f4c-4f2c-9d4c-8b3e5f9f6f4c/aws-certified-developer-associate.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate)
-[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/3g3g2d5e-9g5d-5g3d-0e5d-9c4f6g0g7g5d/aws-certified-security-specialty.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-security-specialty)
-[![AWS Certified Machine Learning Engineer – Associate](https://images.credly.com/size/110x110/images/1e1e0c3c-7f3b-4e1c-9c3b-7a2e4e8f5f3b/aws-certified-machine-learning-engineer-associate.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-machine-learning-engineer-associate)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!---
+csarfigueroa/csarfigueroa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
