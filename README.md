@@ -1,11 +1,13 @@
-### 👋 Hi, I’m @csarfigueroa
+### 👋 Hey, I’m César Figueroa
 
-- 👀 I’m interested in backend development, cloud architecture, serverless technologies, and leveraging tech to solve real-world problems.
-- 🌱 I’m currently pursuing advanced computer science concepts through the Online Master's in Computer Science program at UT Austin and preparing for the AWS Solutions Architect – Professional certification.
-- 💞️ I’m looking to collaborate on backend-intensive projects, cloud migration initiatives, or infrastructure design focusing on scalability and cost optimization.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/csarfigueroa) or send me a message here on GitHub.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I transitioned from a local developer to working for a U.S.-based consulting firm and aspire to build a platform supporting tech talent in Central America.
+I’m a backend developer with a strong focus on clean architecture, cloud-native solutions, and making things work reliably at scale. I currently work at Allata, a U.S.-based consulting firm, where I wear multiple hats—as a Solution Architect, Tech Lead, and Senior Developer—depending on the project.
+
+What I enjoy the most is diving into complex problems, breaking them down, and building something solid with a team. Whether it’s improving performance, designing infrastructure, or mentoring someone who's just getting started, that’s where I feel most at home.
+
+Right now, I'm also studying Computer Science at UT Austin through their online master's program. It’s tough, but worth it—I like understanding what’s behind the abstractions.
+
+Outside of work, you’ll usually find me reading source code like it’s a novel, testing out AWS services I probably don’t need (yet), or chasing down a bug that disappears the moment I hit “print(‘debug’)”.
+
 
 ---
 
