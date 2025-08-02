@@ -6,7 +6,7 @@ Currently, I work at [Allata](https://www.allata.com), a U.S.-based consulting f
 
 I'm also pursuing a Master’s in Computer Science at the University of Texas at Austin, focused on AI and scalable systems. I believe real impact happens when solid engineering meets clear communication and mentorship, which is why I enjoy leading communities, speaking at conferences, and helping others grow.
 
-Some technologies I work with: **AWS, Azure, Node.js, GraphQL, React, Serverless, Argo Workflows, DynamoDB, SAP ERP integrations.**
+Some technologies I work with: **AWS, Azure, Node.js, Pyrhon, SQL, GraphQL, Vue, Serverless.**
 
 Outside of work, you'll catch me reading source code like a novel, mentoring up-and-coming developers, or exploring new AWS features—often just to see how far they can go.
 
