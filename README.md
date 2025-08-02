@@ -24,6 +24,7 @@ Outside of work, you'll catch me reading source code like a novel, mentoring up-
   - Designed for easy integration and scalability
 
   [Repo coming soon]
+  
   [From Scratch to Scalable: Architecting a Notification Service You Can Reuse Anywhere](https://medium.com/@csarfigueroa_40930/from-scratch-to-scalable-architecting-a-notification-service-you-can-reuse-anywhere-864342a2219c)
 
 ---
