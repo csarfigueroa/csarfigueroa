@@ -41,7 +41,7 @@ Outside of work, you'll catch me reading source code like a novel, mentoring up-
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/cesar-figueroa-a3a25a103/) | 📝 [Medium](https://medium.com/@csarfigueroa_40930) | ✉️ cesarabelfigueroa@gmail.com | 🌎 Honduras / Remote
+🔗 [LinkedIn](https://www.linkedin.com/in/cesar-figueroa-a3a25a103/) | 📝 [Medium](https://medium.com/@csarfigueroa_40930)  🌎 Honduras / Remote
 
 <!---
 csarfigueroa/csarfigueroa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
