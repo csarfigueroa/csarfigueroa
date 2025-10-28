@@ -1,12 +1,12 @@
 ### 👋 Hi there, I'm César Figueroa
 
-I'm a Software Architect and Engineering Manager with a strong foundation in backend development, cloud-native architectures, and technical leadership. With over 9 years of experience building scalable solutions for clients across the U.S. and LATAM, I specialize in transforming complex requirements into resilient systems—whether through serverless, containerized, or hybrid cloud designs.
+I'm a Software Architect and Engineering Manager with a strong foundation in backend development, cloud-native architectures, and technical leadership. With over 10 years of experience building scalable solutions for clients across the U.S. and LATAM, I specialize in transforming complex requirements into resilient systems—whether through serverless, containerized, or hybrid cloud designs.
 
 Currently, I work at [Allata](https://www.allata.com), a U.S.-based consulting firm, where I lead architecture and engineering efforts for high-impact clients. My role often blends hands-on development with mentoring, infrastructure design, and enabling agile teams to deliver with confidence.
 
 I'm also pursuing a Master’s in Computer Science at the University of Texas at Austin, focused on AI and scalable systems. I believe real impact happens when solid engineering meets clear communication and mentorship, which is why I enjoy leading communities, speaking at conferences, and helping others grow.
 
-Some technologies I work with: **AWS, Azure, Node.js, Pyrhon, SQL, GraphQL, Vue, Serverless.**
+Some technologies I work with: **AWS, Azure, Node.js, Python, SQL, GraphQL, Vue, Serverless.**
 
 Outside of work, you'll catch me reading source code like a novel, mentoring up-and-coming developers, or exploring new AWS features—often just to see how far they can go.
 
